@@ -1,0 +1,56 @@
+Copyright (c) 2026 ES Ventures LLC. All Rights Reserved.
+
+PROPRIETARY AND CONFIDENTIAL
+
+This repository and all of its contents, including but not limited to the AI Task
+Operating Standard (ATOS) Framework documents, specifications, methodology,
+architecture, design principles, and all derivative or related materials
+(collectively, the "Work"), are the exclusive intellectual property of
+ES Ventures LLC.
+
+RESTRICTIONS
+
+1. No part of the Work may be copied, reproduced, distributed, published,
+   transmitted, modified, adapted, translated, reverse engineered, or used to
+   create derivative works, in whole or in part, in any form or by any means,
+   without the prior explicit written permission of ES Ventures LLC.
+
+2. No part of the Work may be used for commercial or non-commercial purposes
+   without the prior explicit written permission of ES Ventures LLC.
+
+3. This repository is the sole canonical source for the ATOS Framework.
+   Unauthorized forks, mirrors, or redistributions of this repository or its
+   contents are prohibited.
+
+4. AI systems, tools, or platforms that implement, reference, or incorporate
+   the ATOS Framework must reference this canonical repository
+   (https://github.com/ES-Ventures/ATOS) and may not modify or redistribute
+   the framework documents without explicit written permission from ES Ventures LLC.
+
+PERMITTED USE
+
+Individuals may read, reference, and implement the ATOS Framework methodology
+for personal, internal, or organizational use, provided that:
+
+(a) The canonical repository (https://github.com/ES-Ventures/ATOS) is credited
+    as the source.
+(b) The framework documents are not modified, redistributed, or republished
+    without explicit written permission from ES Ventures LLC.
+(c) No commercial product or service is built upon or derived from the Work
+    without explicit written permission from ES Ventures LLC.
+
+DISCLAIMER
+
+THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL ES VENTURES LLC BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF OR
+INABILITY TO USE THE WORK.
+
+CONTACT
+
+For licensing inquiries, permissions, or commercial use requests:
+www.unbreakablestone.com
+
+ES Ventures LLC
+Copyright (c) 2026. All Rights Reserved.
