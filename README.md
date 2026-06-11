@@ -30,6 +30,7 @@ The full ATOS Framework Context document is the canonical reference for all ATOS
 
 | Version | Date | Notes |
 |---------|------|-------|
+| v2.5 | June 2026 | Minor revision — three Additional Findings from the v2.4 audit incorporated: Persona elevation cap precision clarifications (A2); self-reference new artifact handoff signal rule (A3); multi-Persona Phase 1 alignment evaluation procedure (A4). Finding A1 deferred. |
 | v2.4 | June 2026 | S1 patch release — seven blocking specification gaps resolved. Architecture unchanged. |
 | v2.3 | June 2026 | Streamlined distribution edition. Research Foundation and References retained. |
 
