@@ -24,7 +24,7 @@ The framework's analytical machinery runs invisibly in the background. The user 
 
 The full ATOS Framework Context document is the canonical reference for all ATOS implementations. It contains the complete architecture, design principles, phase specifications, and research foundation.
 
-**Current version:** [ATOS_Framework_Context_v2_4.md](./ATOS_Framework_Context_v2_5.md)
+**Current version:** [ATOS_Framework_Context_v2_5.md](./ATOS_Framework_Context_v2_5.md)
 
 ### Version History
 
